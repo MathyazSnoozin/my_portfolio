@@ -1,0 +1,19 @@
+.goals{
+    display: flex;
+    align-items:center;
+    justify-content:space-around;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.goals div{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 30px;
+}
+
+.skills{
+    background-color: white;
+    padding: 25px;
+}

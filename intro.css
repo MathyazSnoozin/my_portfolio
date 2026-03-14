@@ -1,0 +1,34 @@
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-right: 200px;
+}
+
+.introduction{
+    display: flex;
+    align-items:center;
+    justify-content:space-around;
+    margin-top: 50px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.text{
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    margin-left: 200px;
+}
+
+.aboutme{
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    /* justify-content: center; */
+}

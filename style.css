@@ -1,0 +1,20 @@
+*{
+    background-color: rgb(223, 222, 222);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/*colors : #FBFCEE*/
+
+h1, b, h2, p, ul, li, a, i,#flowerimg{
+    background-color: transparent;
+}
+
+#project{
+    border: 1px solid rgb(163, 55, 55);
+    border-radius: 15px;
+    background-color: rgb(163, 55, 55);
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+}
