@@ -18,3 +18,7 @@ h1, b, h2, p, ul, li, a, i,#flowerimg{
     font-size: 20px;
     color: white;
 }
+div{
+    margin-left: 20px;
+    margin-right: 20px;
+}

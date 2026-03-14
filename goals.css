@@ -11,9 +11,11 @@
     flex-direction: column;
     background-color: white;
     padding: 30px;
+    border-radius: 20px;
 }
 
 .skills{
     background-color: white;
     padding: 25px;
+    border-radius: 20px;
 }
