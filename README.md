@@ -27,3 +27,14 @@ my_portfolio/
 - CSS
 - JavaScript
 
+---
+## Author
+
+Mathya MOUHOUS - 
+Computer Science Engineering – Software Engineering
+
+---
+## Note
+This project is for my personal and academic use.
+
+Made with love <3 
