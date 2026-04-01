@@ -7,7 +7,7 @@ This website will be edited the more I learn and the more experience I gain.
 ---
 
 ## Link 
-You can access the website [here](https://mathya-mouhous.netlify.app/)
+You can access the website [here](https://mathyazsnoozin.github.io/my_portfolio/)
 
 ---
 
